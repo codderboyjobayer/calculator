@@ -1,0 +1,35 @@
+.container{
+    text-align: center;
+}
+.container h1 {font-family: 'work sans', sans-serif;
+    font-size: 30px;
+    padding: 0px;
+    margin: 0px;}
+.calculator {
+    width: 295px;
+    height: 375px;
+    margin: auto;
+    background-color: #fb5200;
+    border-radius: 25px;
+    padding: 25px;
+    border: 10px solid #000000;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 30px;
+    border-radius: 50px;
+    width: 278px;
+    padding: 10px 10px;
+}
+button{
+    font-size: 30px;
+    background-color: chartreuse;
+    width: 70px;
+    border: 5px solid #000000;
+    border-radius: 100%;
+    color: #ffffff;
+    font-weight: 900;
+    font-family: 'oswald', sans-serif;
+}
